@@ -1,0 +1,2 @@
+# biletsatisotomasyon
+Bilet Satış Otomasyonu 
